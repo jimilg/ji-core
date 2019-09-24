@@ -1,4 +1,4 @@
-import DummyClass from '../src/ji-core'
+import DummyClass from '../src/lkp'
 
 /**
  * Dummy test

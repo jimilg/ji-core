@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "description": "",
   "keywords": [],
-  "main": "dist/ji-core.umd.js",
-  "module": "dist/ji-core.es5.js",
-  "typings": "dist/types/ji-core.d.ts",
+  "main": "dist/lkp.umd.js",
+  "module": "dist/lkp.es5.js",
+  "typings": "dist/types/lkp.d.ts",
   "files": [
     "dist"
   ],
@@ -115,6 +115,7 @@
     "tslint-config-prettier": "^1.15.0",
     "tslint-config-standard": "^8.0.1",
     "typedoc": "^0.12.0",
-    "typescript": "^3.0.3"
+    "typescript": "^3.0.3",
+    "whatwg-fetch": "3.0.0"
   }
 }
